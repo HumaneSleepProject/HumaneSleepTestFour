@@ -5,7 +5,7 @@ tagline: We are Humane Sleep Project. Dedicated to providing proper something so
 email: soumyadeep.das.m44@gmail.com
 description: I am Soumyadeep Das, an incoming PhD Student at ICRAR/UWA Perth. I am interested in multiwavelength AGN research, AGN life-cycle, restarts, and the host environment. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://soumyadeepdas.gitlab.io" # the base hostname & protocol for your site
+url: "https://humanesleepproject.github.io/HumaneSleepTestFour/" # the base hostname & protocol for your site
 logo: assets/images/favicon.png
 image: assets/images/og-pic.jpg
 
@@ -23,12 +23,12 @@ collections:
 myversion: 4.5.0
 
 author:
-    name: Soumyadeep Das
+    name: Humane Sleep Foundation
     avatar : assets/images/profile_picture.png
     avatar-webp: assets/images/profile_picture.webp
     avatar-thumb: assets/images/profile_picture-thumb.jpg
     # author-bio : "Incoming PhD Student at ICRAR/UWA Perth."
-    author-bio : "Graduated with Dual Degree (B.Tech. and M.Tech.) in Engg. Physics, IIT Varanasi, India."
+    author-bio : "Providing quality sleep one sleeping bag at a time"
     ads : https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-3493-6638&sort=date%20desc%2C%20bibcode%20desc
     facebook: https://www.facebook.com/TheSoumyadeepDas
     github: https://github.com/lordparthurnaax
